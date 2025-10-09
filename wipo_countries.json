@@ -290,18 +290,18 @@
     {
         "Type": "WIPO",
         "Single Class (National Type)": "",
-        "Country": "Brazil",
+        "Country": "Brazil", UPDATED
         "Country Code": "BR",
         "Currency": "CHF",
         "Complementary Fee": "",
-        "for one class": 61,
+        "for one class": 251,
         "for second class": "",
         "for third class": "",
         "for each additional up to 5": "",
         "for three classes": "",
-        "for each additional class": 61,
+        "for each additional class": 251,
         "for each additional over 10": "",
-        "Second part for each class": 109
+        "Second part for each class": ""
     },
     {
         "Type": "WIPO",
@@ -1842,16 +1842,16 @@
     {
         "Type": "WIPO",
         "Single Class (National Type)": "",
-        "Country": "Zambia",
+        "Country": "Zambia", UPDATED
         "Country Code": "ZM",
         "Currency": "CHF",
         "Complementary Fee": "",
-        "for one class": 57,
+        "for one class": 49,
         "for second class": "",
         "for third class": "",
         "for each additional up to 5": "",
         "for three classes": "",
-        "for each additional class": 45,
+        "for each additional class": 39,
         "for each additional over 10": "",
         "Second part for each class": ""
     },
