@@ -290,7 +290,7 @@
     {
         "Type": "WIPO",
         "Single Class (National Type)": "",
-        "Country": "Brazil UPDATED", 
+        "Country": "Brazil", 
         "Country Code": "BR",
         "Currency": "CHF",
         "Complementary Fee": "",
@@ -934,12 +934,12 @@
         "Country Code": "LA",
         "Currency": "CHF",
         "Complementary Fee": "",
-        "for one class": 51,
+        "for one class": 44,
         "for second class": "",
         "for third class": "",
         "for each additional up to 5": "",
         "for three classes": "",
-        "for each additional class": 36,
+        "for each additional class": 31,
         "for each additional over 10": "",
         "Second part for each class": ""
     },
